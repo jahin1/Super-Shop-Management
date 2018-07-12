@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8CC70030-99C4-47B0-8F5B-54264AC4E8D2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Super_Shop</RootNamespace>
+    <AssemblyName>Super_Shop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Admin.Designer.cs">
+      <DependentUpon>Add Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Product.Designer.cs">
+      <DependentUpon>Add Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerDetails.Designer.cs">
+      <DependentUpon>CustomerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Databasecon.cs" />
+    <Compile Include="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditProfile.Designer.cs">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeDelivary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeDelivary.Designer.cs">
+      <DependentUpon>HomeDelivary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyCart.Designer.cs">
+      <DependentUpon>MyCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="PasswordChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChange.Designer.cs">
+      <DependentUpon>PasswordChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordChangeA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChangeA.Designer.cs">
+      <DependentUpon>PasswordChangeA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordChangeS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChangeS.Designer.cs">
+      <DependentUpon>PasswordChangeS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs" />
+    <Compile Include="Profit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profit.Designer.cs">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\AddSalesman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\AddSalesman.Designer.cs">
+      <DependentUpon>AddSalesman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Home.Designer.cs">
+      <DependentUpon>Admin Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseProduct.Designer.cs">
+      <DependentUpon>ChooseProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLogin.Designer.cs">
+      <DependentUpon>CLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete Admin.Designer.cs">
+      <DependentUpon>Delete Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete Product.Designer.cs">
+      <DependentUpon>Delete Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete Salesman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete Salesman.Designer.cs">
+      <DependentUpon>Delete Salesman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registation.Designer.cs">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary.Designer.cs">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salesman Home.Designer.cs">
+      <DependentUpon>Salesman Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman.cs" />
+    <Compile Include="Update Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Admin.Designer.cs">
+      <DependentUpon>Update Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Product.Designer.cs">
+      <DependentUpon>Update Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Salesman Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Salesman Info.Designer.cs">
+      <DependentUpon>Update Salesman Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="Add Admin.resx">
+      <DependentUpon>Add Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Product.resx">
+      <DependentUpon>Add Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerDetails.resx">
+      <DependentUpon>CustomerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditProfile.resx">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeDelivary.resx">
+      <DependentUpon>HomeDelivary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyCart.resx">
+      <DependentUpon>MyCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChange.resx">
+      <DependentUpon>PasswordChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChangeA.resx">
+      <DependentUpon>PasswordChangeA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChangeS.resx">
+      <DependentUpon>PasswordChangeS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profit.resx">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\AddSalesman.resx">
+      <DependentUpon>AddSalesman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Home.resx">
+      <DependentUpon>Admin Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseProduct.resx">
+      <DependentUpon>ChooseProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLogin.resx">
+      <DependentUpon>CLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete Admin.resx">
+      <DependentUpon>Delete Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete Product.resx">
+      <DependentUpon>Delete Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete Salesman.resx">
+      <DependentUpon>Delete Salesman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registation.resx">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary.resx">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman Home.resx">
+      <DependentUpon>Salesman Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Admin.resx">
+      <DependentUpon>Update Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Product.resx">
+      <DependentUpon>Update Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Salesman Info.resx">
+      <DependentUpon>Update Salesman Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Retro-salesman-e1367455001858.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Crystal_Clear_app_Login_Manager.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\824183-green-wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgot-password-icon-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

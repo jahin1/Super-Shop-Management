@@ -1,0 +1,215 @@
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+F:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+H:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+H:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+H:\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\User\Desktop\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChange.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeA.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeS.resources
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.dll
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChange.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeA.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeS.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+C:\Users\Jahin\Desktop\New folder\Try with database\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.HomeDelivary.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.dll
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.HomeDelivary.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChange.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeA.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeS.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\Jahin\Desktop\i try\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.dll
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.HomeDelivary.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChange.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeA.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeS.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CustomerDetails.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.MyCart.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salary.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Profit.resources
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\itextsharp.xml
+C:\Users\Jahin\Desktop\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.EditProfile.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\itextsharp.xml
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Admin.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Add_Product.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CustomerDetails.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.EditProfile.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.HomeDelivary.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.MyCart.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChange.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeA.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.PasswordChangeS.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Profit.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.AddSalesman.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Admin_Home.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.ChooseProduct.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.CLogin.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Admin.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Product.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Delete_Salesman.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Information.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.LogIn.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Registation.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salary.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Salesman_Home.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Admin.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Product.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Update_Salesman_Info.resources
+C:\Users\Lenovo\Desktop\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.Cache
+D:\AIUB 7th Semester\New folder\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+D:\AIUB 7th Semester\New folder\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+D:\AIUB 7th Semester\New folder\project final\try table with\Demo 1 C#\C# Project Super Shop\Demo_1\r_d\C ##\C# project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
