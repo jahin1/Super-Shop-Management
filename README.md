@@ -1,6 +1,8 @@
 This Desktop application is done by myself using C# language.Using this project one can manage super shop.
- Language : C#
- Key Points :
+
+Language : C#
+
+Key Points :
 1.	Online selling system.
 2.	Online Inventory management.
 3.	Salary management.
